@@ -19,8 +19,11 @@ The dataset consists of 2126 records, each containing features extracted from Ca
 •	Normal: Representing healthy fetal conditions.
 •	Suspect: Indicating a potential need for further examination.
 •	Pathological: Signifying a higher risk, demanding immediate attention.
+
+![image](https://github.com/mmk259/Fetal_Health_Classification/assets/108261815/3724c7b9-509f-43f5-9ed2-a110b1e0d82b)
+
  
-Key:  1 - Normal 2 - Suspect 3 - Pathological
+                                                             Key:  1 - Normal 2 - Suspect 3 - Pathological
 
 **3.2 Features**
 The features include information related to fetal heart rate, movements, and uterine contractions, among others. The dataset is rich in information crucial for understanding fetal health dynamics.
