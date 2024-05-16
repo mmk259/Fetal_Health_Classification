@@ -21,9 +21,7 @@ The dataset consists of 2126 records, each containing features extracted from Ca
 •	Pathological: Signifying a higher risk, demanding immediate attention.
 
 ![image](https://github.com/mmk259/Fetal_Health_Classification/assets/108261815/3724c7b9-509f-43f5-9ed2-a110b1e0d82b)
-
- 
-                                                             Key:  1 - Normal 2 - Suspect 3 - Pathological
+Key:  1 - Normal 2 - Suspect 3 - Pathological
 
 **3.2 Features**
 The features include information related to fetal heart rate, movements, and uterine contractions, among others. The dataset is rich in information crucial for understanding fetal health dynamics.
@@ -36,13 +34,14 @@ The features include information related to fetal heart rate, movements, and ute
 •	Feature normalization through MinMaxScaler.
 •	Dropping features with high correlation (>70%) using Pearson correlation.
 
+![image](https://github.com/mmk259/Fetal_Health_Classification/assets/108261815/03d1373b-efd9-4e48-96b6-1ff7e5793aec)
  
-
 **4.2 Model Selection**
 A range of classification algorithms, including Naive Bayes, Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors, Support Vector Machine, and Gradient Boosting, are considered for model development.
 
 **4.3 Evaluation Metrics**
 Common classification metrics such as accuracy, precision, recall, and F1 score will be employed to evaluate model performance.
+![image](https://github.com/mmk259/Fetal_Health_Classification/assets/108261815/3ca2dade-8a6c-4617-8e4e-1ded959de275)
 
 ## **5. Results**
 
