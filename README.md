@@ -78,5 +78,5 @@ Random Forest Model Accuracy is 98.29%.
 This research contributes to the reduction of child and maternal mortality by leveraging Cardiotocogram data for fetal health classification. The development of a robust Random Forest model holds promise for early intervention and improved healthcare outcomes. Further investigations could explore additional features and data sources to refine the model and enhance its applicability in diverse healthcare settings.
 
 ## **7. References**
-https://www.sciencedirect.com/science/article/pii/S1877050921023541
-https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification
+1. https://www.sciencedirect.com/science/article/pii/S1877050921023541
+2. https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification
